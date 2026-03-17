@@ -1,0 +1,28 @@
+# LLM inference
+llama-cpp-python>=0.2.0
+
+# Embeddings & vector store
+sentence-transformers>=2.2.0
+chromadb>=0.4.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-text-splitters>=0.0.1
+
+# Document parsing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+ebooklib>=0.18
+beautifulsoup4>=4.12.0
+chardet>=5.0.0
+lxml>=4.9.0
+
+# Document generation
+python-pptx>=0.6.21
+markdown>=3.5.0
+Jinja2>=3.1.0
+
+# GUI
+gradio>=4.0.0
+
+# Utilities
+rich>=13.0.0
